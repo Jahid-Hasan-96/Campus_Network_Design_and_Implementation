@@ -17,11 +17,11 @@ Consequently, the campus network offers a range of services, including internet 
 ## Overview of Software implementation
 Here's the overview of the software implementation of this project:
 
-![alt text] (https://github.com/Jahid-Hasan-96/Campus_Network_Design_and_Implementation/blob/main/Campus%20Network%20design.jpg)
+![Campus Network design](https://github.com/Jahid-Hasan-96/Campus_Network_Design_and_Implementation/assets/67227023/955c1336-afc8-45fb-8f43-10988da4557a)
 ## Overview of Hardware implementation
 Here's the overview of the hardware implementation of this project:
 
-![alt text] (https://github.com/Jahid-Hasan-96/Campus_Network_Design_and_Implementation/blob/main/Network%20topology%20(Hardware).jpg)
+![Network topology (Hardware)](https://github.com/Jahid-Hasan-96/Campus_Network_Design_and_Implementation/assets/67227023/f737428f-ab95-4d76-b3b8-8a19a12c8060)
 ## Feedback
 
 Feel free to contact me if you have any further queries, at: [jahid15@cse.pstu.ac.bd] (mailto:jahid15@cse.pstu.ac.bd)
