@@ -24,7 +24,7 @@ Here's the overview of the hardware implementation of this project:
 ![Network topology (Hardware)](https://github.com/Jahid-Hasan-96/Campus_Network_Design_and_Implementation/assets/67227023/f737428f-ab95-4d76-b3b8-8a19a12c8060)
 ## Feedback
 
-Feel free to contact me if you have any further queries, at: [jahid15@cse.pstu.ac.bd] (mailto:jahid15@cse.pstu.ac.bd)
+Feel free to contact me if you have any further queries, at: <jahid15@cse.pstu.ac.bd>
 
 You can connect with me on LinkedIn.
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mmjahidhasan/)
